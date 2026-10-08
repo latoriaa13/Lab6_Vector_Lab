@@ -1,6 +1,6 @@
 /**********************************************
 *  Filename: vector.h
-*  Description: declare vector storage
+*  Description: declare vector storage functions
 *  Author: Ava Latoria
 *  Date: 10/1/26
 **********************************************/

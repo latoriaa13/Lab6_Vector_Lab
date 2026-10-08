@@ -1,6 +1,6 @@
 /**********************************************
 *  Filename: operation.c
-*  Description: declare vector operations
+*  Description: declare vector operation fucntions
 *  Author: Ava Latoria
 *  Date: 10/1/26
 **********************************************/
