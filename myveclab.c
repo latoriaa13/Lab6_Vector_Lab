@@ -1,6 +1,6 @@
 /**********************************************
 *  Filename: myveclab.c
-*  Description: 3D vector calculator
+*  Description: 3D vector calculator with help funcitons
 *  Author: Ava Latoria
 *  Date: 10/1/26
 **********************************************/
