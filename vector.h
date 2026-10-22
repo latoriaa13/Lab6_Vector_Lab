@@ -7,8 +7,6 @@
 
 #include "operation.h"
 
-#define MAX_VECTORS 10
-
 int addvect(vect newvect);
 
 int findvect(char *name);
@@ -18,3 +16,5 @@ vect getvect(int index);
 void clearvects(void);
 
 int getvectcount(void);
+
+void printvect(vect v);

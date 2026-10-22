@@ -1,5 +1,5 @@
 /**********************************************
-*  Filename: operation.c
+*  Filename: operation.h
 *  Description: declare vector operation fucntions
 *  Author: Ava Latoria
 *  Date: 10/1/26

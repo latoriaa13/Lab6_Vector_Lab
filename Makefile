@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-c -Wall
 LDFLAGS=
-SOURCES=myveclab.c operation.c vector.c
+SOURCES=myveclab.c operation.c vector.c csv.c calculator.c functions.c
 OBJECTS=$(SOURCES:.c=.o)
 EXECUTABLE=myveclab
 
