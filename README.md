@@ -26,18 +26,18 @@ make
 ## Supported Commands
 
 Commands:
-  a = 1 2 3
-  a = 1,2,3
-  a + b
-  a - b
-  a * 2
-  2 * a
-  c = a + b
-  list
-  clear
-  load
-  save
-  quit
+- a = 1 2 3
+- a = 1,2,3
+- a + b
+- a - b
+- a * 2
+- 2 * a
+- c = a + b
+- list
+- clear
+- load
+- save
+- quit
 
 ## Dynamic Memory
 
